@@ -1,4 +1,4 @@
-The [Promotional Campaign Analysis Notebook](https://colab.research.google.com/drive/1_GWTTxz0igCZF84CNCO1cDzjZNwIUeih#scrollTo=3e453293-5efd-4ad8-afd5-cd8ea61f31db) <a href="[https://www.example.com](https://colab.research.google.com/drive/1_GWTTxz0igCZF84CNCO1cDzjZNwIUeih#scrollTo=3e453293-5efd-4ad8-afd5-cd8ea61f31db)" target="_blank">Promotional Campaign Analysis Notebook</a> implements a machine learning model to predict customer response to a discount campaign for a retail store.
+The [Promotional Campaign Analysis Notebook](https://colab.research.google.com/drive/1_GWTTxz0igCZF84CNCO1cDzjZNwIUeih#scrollTo=3e453293-5efd-4ad8-afd5-cd8ea61f31db) implements a machine learning model to predict customer response to a discount campaign for a retail store.
 
 # Introduction
 
