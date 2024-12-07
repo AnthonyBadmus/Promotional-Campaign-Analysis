@@ -1,7 +1,5 @@
 The [Promotional Campaign Analysis Notebook](https://colab.research.google.com/drive/1_GWTTxz0igCZF84CNCO1cDzjZNwIUeih#scrollTo=3e453293-5efd-4ad8-afd5-cd8ea61f31db) implements a machine learning model to predict customer response to a discount campaign for a retail store.
 
-# Introduction
-
 The retail store is launching a 40% discount offer and aims to target customers most likely to accept it. By developing a machine learning model, we can predict customer behavior and optimize the outreach strategy.
 
 ## Problem Statement
